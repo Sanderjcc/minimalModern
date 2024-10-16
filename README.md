@@ -1,0 +1,2 @@
+# minimalModern
+ an curse task 
