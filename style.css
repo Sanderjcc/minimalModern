@@ -51,6 +51,8 @@ header p {
     margin-bottom: 50px;
 }
 
+
+/* Estilizando barra de navegação */
 nav ul {
     list-style: none;
 }
@@ -85,6 +87,7 @@ nav li:hover{
     box-shadow: 0px 0px 2px 0.5px #777;
 }
 
+/* estilizando o conteúdo principal */
 main{
     background-color: #ffffff00;
 }
@@ -96,7 +99,7 @@ main p{
 
 section#sobre {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     z-index: 4;
     position: relative;
@@ -314,7 +317,6 @@ section#consideracoes ul{
 section#consideracoes ul li{
     width: 350px;
     text-align: center;
-    display: relative;
     margin-bottom: 200px;
     
 }
